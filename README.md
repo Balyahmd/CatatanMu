@@ -10,5 +10,5 @@ Proyek ini adalah aplikasi sederhana untuk mengelola catatan. Pengguna dapat mel
 - ❌ **Menghapus Catatan** – Menghapus catatan yang tidak diperlukan.
 - ✅ **Memvalidasi Properti** – Memastikan catatan memiliki properti yang benar.
 
-## ⚙️ Instalasi
+## ⚙️ Demo
 [LINK DEMOO](https://catatan-mu.vercel.app/)
